@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/49114b6a-8e0f-4da7-b220-d24e24f4510e
 - CRUD (Create, Read, Update e Delete)
 - Single Page Application (SPAs)
 - Calculo do estoque que está acabando (menor que 10) na página principal
-- Ultimos itens cadastrados (10 dias)
+- Ultimos itens cadastrados (10 dias) na página principal
 
 ## 📖 Aprendizados
 
